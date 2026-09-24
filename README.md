@@ -32,6 +32,14 @@ This project analyzes climate and weather data from multiple cities in Pakistan 
 * Python Data Analysis
 * Pandas & NumPy
 * Data Interpretation
+## Key Findings
+
+* The dataset contains **31,779 weather records** collected across multiple cities in Pakistan.
+* Weather data covers the period from **2000 to 2024**.
+* **Islamabad** had the highest number of records, followed by Karachi and Peshawar.
+* Data cleaning was performed to identify and handle missing and inconsistent values.
+* The `visibility` column was removed because it contained missing values for all records.
+* City-wise and time-based analysis was performed to identify patterns and differences in weather data.
 
 ## Project File
 
